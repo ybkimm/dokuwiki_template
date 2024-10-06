@@ -24,15 +24,3 @@
     text-align: left;
 }
 
-/* site, page and user tools */
-.tools > div {
-    display: inline-block;
-    vertical-align: top;
-    text-align: left;
-    padding-right: 1em;
-}
-[dir=rtl] .tools > div {
-    padding-left: 1em;
-    padding-right: 0;
-    text-align: right;
-}
